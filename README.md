@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)
 <!--
 **mehmetunal2017/mehmetunal2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
