@@ -28,9 +28,10 @@ Through the projects I develop, I aim to provide innovative solutions to real-wo
 
 ## 🌟 **My Projects**
 ### **🌐 Web Applications**  
-- **[ABSİS | Academic Application and Evaluation System](https://absis.beun.edu.tr)**: A web-based system developed for Zonguldak Bülent Ecevit University.  
-  ABSİS aims to simplify academic staff application processes, automate academic performance evaluations, and digitize institutional processes.  
-- **[eTemin | Electronic Procurement and Inventory Management Program]**: A desktop application designed to manage inventory processes and generate reports.  
+- **[ABSİS | Akademik Başvuru ve Değerlendirme Sistemi](https://absis.beun.edu.tr)**: A web-based system developed for Zonguldak Bülent Ecevit University.  
+  ABSİS aims to simplify academic staff application processes, automate academic performance evaluations, and digitize institutional processes.
+### **📱 Desktop Applications**   
+- **[eTemin | Elektronik Satınalma ve Taşınır Kayıt Süreçleri Yönetim Programı]**: A desktop application designed to manage inventory processes and generate reports.  
   eTemin simplifies asset and inventory management tasks commonly used in public institutions, making them more efficient and user-friendly.
 
 ---
