@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 **Hakkımda**
-Merhaba! Yenilikçi teknolojilerle çalışmaktan büyük bir heyecan duyuyor ve sürekli öğrenmeye olan tutkumla kendimi geliştiriyorum.
+Yenilikçi teknolojilerle çalışmaktan büyük bir heyecan duyuyor ve sürekli öğrenmeye olan tutkumla kendimi geliştiriyorum.
 
 💡 **İlgi Alanlarım:**  
 - Masaüstü, Web Uygulama Geliştirme  
