@@ -1,3 +1,6 @@
+
+
+
 # Welcome! 👋  
 ### I'm **Mehmet ÜNAL**
 
@@ -16,6 +19,10 @@ I am passionate about working with innovative technologies and constantly improv
 Through the projects I develop, I aim to provide innovative solutions to real-world problems and contribute to the technology world. My goal is to participate in groundbreaking projects in artificial intelligence and mobile technologies, making a significant impact in the industry.  
 
 ---
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/SahilMehdiyev/SahilMehdiyev/output/github-snake-dark.svg" alt="snake gif" />
+</div>
 
 ## 🛠️ **Technologies I Use**
 | **Category**            | **Technologies**                                          |
