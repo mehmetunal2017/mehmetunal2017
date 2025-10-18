@@ -43,11 +43,6 @@ Through the projects I develop, I aim to provide innovative solutions to real-wo
 
 ---
 
-## 📈 **My Statistics**  
-![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetunal2017&show_icons=true&theme=radical)
-
----
-
 ## 📫 **Get in Touch**  
 If you'd like to reach out or discuss my projects, feel free to contact me! 😊  
 - **Email:** [mehmet.unal@beun.edu.tr](mailto:mehmet.unal@example.com)  
